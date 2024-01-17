@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../javascript portifolio projects/html files"
+		},
+		{
+			"path": "../loruki-website"
+		},
+		{
+			"path": "../HTML PROJECTS/htmlprep for finalproject/HTML FINAL PROJECTS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Image-Search-app"
+	}
+}
